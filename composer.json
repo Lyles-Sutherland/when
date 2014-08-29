@@ -1,5 +1,5 @@
 {
-    "name": "tplaner/when",
+    "name": "albertsola/when",
     "type": "library",
     "description": "Date/Calendar recursion library.",
     "keywords": ["recurrence", "date", "time", "DateTime"],
