@@ -1,5 +1,5 @@
 {
-    "name": "albertsola/when",
+    "name": "starx/when",
     "type": "library",
     "description": "Date/Calendar recursion library.",
     "keywords": ["recurrence", "date", "time", "DateTime"],
